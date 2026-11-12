@@ -28,6 +28,7 @@ Também dá para abrir sem instalar, com `./doctor-miner-toolkit`.
 
 ## O que ele faz
 
+- **Conta Doctor Miner:** entre com login e senha para guardar a configuração no servidor e usá-la em qualquer computador, ou continue sem login.
 - **Máquinas:** encontra por faixa de IP as máquinas Antminer com firmware de fábrica, Vnish, Braiins OS, LuxOS e Hashcore, e também Whatsminer e Avalon. Mostra hashrate, consumo, temperatura, placas e ventoinhas.
 - **Saúde:** marca a máquina que precisa de atenção e diz por quê. Lê os logs da própria máquina e aponta placa sem chips, falha de ventoinha, quedas de pool e reinícios.
 - **Linha do tempo:** guarda para cada máquina os reinícios, quedas, ocorrências nos logs e operações feitas.
@@ -35,8 +36,9 @@ Também dá para abrir sem instalar, com `./doctor-miner-toolkit`.
 - **Mudanças fora do app:** avisa quando pool, throttle, alvo de potência ou firmware muda sem ter sido pelo app. Troca de pool é a marca clássica de malware em ASIC.
 - **Controles automáticos:** temperatura (só reduz acima de 80 °C por padrão) e corrente pelo disjuntor. Vêm desligados.
 - **Dispositivos:** tomadas, relés, disjuntores Wi-Fi e sensores Shelly, Tasmota e Tuya, com busca automática na rede.
-- **Planejador:** circuitos pela NBR 5410, ventilação, tomadas e lista de compras.
-- **Suporte:** monta um pacote com tudo o que o técnico precisa e envia à Doctor Miner.
+- **Pools da conta:** até 5 pools guardadas na conta, pools recomendadas e opção de manter as pools nas máquinas.
+- **Planejador:** cabos, circuitos e potência em frases, e possibilidades de compra para o valor que você quer investir.
+- **Suporte:** monta um pacote com tudo o que o técnico precisa e envia à Doctor Miner. No plano gerenciado, a NOC da Doctor Miner acompanha e opera a farm pelo computador em que você permitir.
 - **Telegram:** alertas e resumo diário da farm.
 
 As regras e os controles funcionam só com o app aberto.
