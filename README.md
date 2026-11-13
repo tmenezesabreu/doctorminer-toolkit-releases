@@ -38,6 +38,7 @@ Também dá para abrir sem instalar, com `./doctor-miner-toolkit`.
 - **Dispositivos:** tomadas, relés, disjuntores Wi-Fi e sensores Shelly, Tasmota e Tuya, com busca automática na rede.
 - **Pools da conta:** até 5 pools guardadas na conta, pools recomendadas e opção de manter as pools nas máquinas.
 - **Planejador:** cabos, circuitos e potência em frases, e possibilidades de compra para o valor que você quer investir.
+- **Agente da farm:** com o código que a NOC da Doctor Miner passa, o computador vira o agente da farm e a NOC opera tudo remotamente (aba "Código da farm" na tela inicial).
 - **Suporte:** monta um pacote com tudo o que o técnico precisa e envia à Doctor Miner. No plano gerenciado, a NOC da Doctor Miner acompanha e opera a farm pelo computador em que você permitir.
 - **Telegram:** alertas e resumo diário da farm.
 
